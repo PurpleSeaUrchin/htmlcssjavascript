@@ -1,0 +1,6 @@
+{
+    "html.format.wrapLineLength": 25,
+    "html.format.wrapAttributes": "force",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on"
+}
