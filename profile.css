@@ -1,0 +1,87 @@
+h1 {
+    background-color: #fff;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+
+p {
+    text-align: justify;
+}
+
+h2 {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.container-fluid {
+    vertical-align: middle;
+}
+
+.a navbar-brand {
+    vertical-align: middle;
+}
+
+.navbar nav {
+    vertical-align: middle;
+    margin-bottom: 6px;
+}
+
+#mylogo {
+    width: 30px;
+    vertical-align: middle;
+    margin-bottom: 6px;
+    margin-right: 5px;
+}
+
+.imgicon {
+    width: 25px;
+}
+
+img {
+    width: 50px;
+    vertical-align: middle;
+}
+
+.container {
+    text-align: center;
+}
+
+.sidebyside {
+    display: flex;
+}
+
+#myimg {
+    width: 210px;
+    border-radius: 70%;
+    margin-right: 25px;
+}
+
+#button {
+    width: 200px;
+    border-radius: 10px;
+    margin-bottom: 28px;
+    margin-top: 30px;
+}
+
+.row {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.numerouno {
+    font-size: 14px;
+}
+
+.sidebyside {
+    display: flex;
+    flex-direction: row;
+}
+
+.numerodos {
+    font-size: 12px;
+}
